@@ -1,2 +1,1 @@
-# Personal-mental-health-journal-
-This project is a beginner-friendly Python application that suggests outfits based on the type of weather. The user selects the weather condition (e.g., sunny, rainy, cold, or cloudy), and the program recommends a suitable outfit. The logic is built using simple conditional statements, making it easy to understand yet effective.
+A simple yet meaningful Python project that acts as a personal mood tracker. Through a command-line interface, users can record how they feel each day and view their emotional history anytime. Built using Python fundamentals like loops, lists, and conditionals, this project reflects my interest in using tech for personal well-being.
